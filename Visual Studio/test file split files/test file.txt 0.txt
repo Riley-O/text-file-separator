@@ -1,3 +1,0 @@
-O
-the separation string for this file would be "O", it will only detect it at the beginning of a line
-text text

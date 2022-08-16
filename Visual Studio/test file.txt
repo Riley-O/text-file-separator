@@ -1,18 +1,18 @@
-O
-the separation string for this file would be "O", it will only detect it at the beginning of a line
+O123
+the separation string for this file would be "/nO", it will only detect it at the beginning of a line
 text text
-O
-text text
-text text
-O
+O222
 text text
 text text
-text text
-O
+O333
 text text
 text text
 text text
+O45
 text text
-O
+text text
+text text
+text text
+O1
 text text
 text text
